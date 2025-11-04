@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+#list{
+    display: flex;
+}
+li{
+    list-style: none;
+    padding: 1rem;
+    color: aliceblue;
+    font-size: 12px;
+}
+#home{
+    margin-left: 800px;
+}
+#nav{
+    background-color: blueviolet;
+}
+#logo
+{
+    font-size: 1.2rem;
+}
+#main{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+    align-items: center;
+
+}
